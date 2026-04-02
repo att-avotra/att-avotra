@@ -1,13 +1,12 @@
 <div align="center">
 
-```
- █████╗ ██╗   ██╗ ██████╗ ████████╗██████╗  █████╗ 
-██╔══██╗██║   ██║██╔═══██╗╚══██╔══╝██╔══██╗██╔══██╗
-███████║██║   ██║██║   ██║   ██║   ██████╔╝███████║
-██╔══██║╚██╗ ██╔╝██║   ██║   ██║   ██╔══██╗██╔══██║
-██║  ██║ ╚████╔╝ ╚██████╔╝   ██║   ██║  ██║██║  ██║
-╚═╝  ╚═╝  ╚═══╝   ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
-```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+AVOTRA+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;FullStack+Developer+%7C+JavaScript;Building+things+that+matter+%F0%9F%9A%80" alt="Avotra" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=FullStack+Dev+%7C+JavaScript+%7C+TypeScript;React+%7C+Next.js+%7C+Node.js;Building+from+Madagascar+%F0%9F%87%B2%F0%9F%87%AC" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=2000&color=0077AA&center=true&vCenter=true&width=600&lines=FullStack+Dev+%7C+JavaScript+%7C+TypeScript;React+%7C+Next.js+%7C+Node.js;Building+from+Madagascar+%F0%9F%87%B2%F0%9F%87%AC" alt="subtitle" />
+</picture>
 
 ### FullStack Developer · JavaScript Enthusiast · Builder
 
